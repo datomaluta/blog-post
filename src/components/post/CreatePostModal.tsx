@@ -26,8 +26,7 @@ export default function CreatePostModal({
       onAddPost(storeData);
       toast.success("Post created successfully");
     },
-    onError: (error) => {
-      console.log(error);
+    onError: () => {
       toast.error("Something went wrong with post creation");
     },
   });
