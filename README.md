@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](./client/src/assets/images/app-screenshot.jpg)
+![](./src/assets/images/app-screenshot.jpg)
 
 A platform to view, edit, and delete posts. There is also a search functionality.
 
